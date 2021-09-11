@@ -23,4 +23,4 @@ while previous_step_size > precision:
     print("Final value of x is : ", new_x)
     
 print("The Gradient Descent for the equation will be : ", new_x)
-print('\n')
+
